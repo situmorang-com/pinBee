@@ -43,7 +43,7 @@
     <string name="sign_up_7_title">Scan Your Paycheck</string>
     <string name="score_credit_terms_title">Score Credit Terms</string>
     <string name="skor_kredit_anda">Your Credit Score</string>
-    <string name="delay_loan_terms"><![CDATA[<p>According to your credit score, you may propose <b>emergency loan</b> with the maximum of Rp5.000.000,00 in a 1-minute process.<p> Do you want to propose for emergency oan?]]></string>
+    <string name="delay_loan_terms"><![CDATA[<p>According to your credit score, you may propose <b>emergency loan</b> with the maximum of Rp5.000.000,00 in a 1-minute process.<p> Do you want to propose for emergency loan?]]></string>
     <string name="sign_up_8_title">Contact Info</string>
     <string name="log_in">Login</string>
     <string name="reason_for_loan">Reason for loan</string>
